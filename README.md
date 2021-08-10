@@ -12,6 +12,6 @@ chmod +x install.sh
 ```
 run installer :
 ```Bash
-./install.sh
+./install.sh ~/yourMusicDirectory
 ```
 
