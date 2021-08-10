@@ -8,7 +8,7 @@ install the [mocp](https://github.com/jonsafari/mocp) first
 git clone https://github.com/MRpi5hi/moc-theme.git
 ```
 ```Bash
-chmod =x install.sh
+chmod +x install.sh
 ```
 run installer :
 ```Bash
