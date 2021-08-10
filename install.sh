@@ -5,7 +5,7 @@
  banner_path="$PWD/lib/banner"
 cat $banner_path
 echo "closing moc..."
-killall moc
+killall mocp
 echo "seting music directory..."
 rm -f ~/.moc/last_directory
 echo $1 >> ~/.moc/last_directory
